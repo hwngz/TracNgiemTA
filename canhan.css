@@ -1,0 +1,23 @@
+*
+table, th, td {
+  border:2px solid black;
+}
+
+.hinh
+{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.cangiua {
+  
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+body{background-color:#EDB4BC;} 
+    
